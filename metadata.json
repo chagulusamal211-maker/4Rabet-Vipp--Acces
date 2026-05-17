@@ -1,0 +1,6 @@
+{
+  "name": "4rabet Style Auth",
+  "description": "A high-fidelity auth page inspired by the 4rabet UI, featuring dark theme and custom form components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
